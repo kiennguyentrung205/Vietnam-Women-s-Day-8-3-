@@ -50,3 +50,10 @@ footer {
     padding: 20px;
     background: rgba(0, 0, 0, 0.2);
 }
+@media screen and (max-width: 767.98px) {
+    .hero-img {
+        width: 77%;
+        border-radius: 10px;
+        box-shadow: 0 10px 20px rgba(0, 0, 0, 0.2);
+    }
+}
